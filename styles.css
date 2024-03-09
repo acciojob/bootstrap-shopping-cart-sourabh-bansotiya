@@ -1,1 +1,180 @@
 /*  your css code here. If applicable */
+.container{
+	text-align: center;
+    background-color: lightgray;
+	width: 100% !important;
+	border: 1px solid;
+}
+
+h1{
+	color: #3b99e0;
+}
+
+.col-lg-8{
+        width: 70%;
+        height: 700px;
+        background-color: white;
+        margin-left: 50px;
+        border: 1px solid white;
+}
+
+
+#head{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.col-lg-4{
+    position: relative;
+     bottom: 700px;
+     right: 45px;
+	width: 22% !important;
+	height: 700px;
+	background-color: white;
+	justify-content: end;
+    align-items: end;
+    margin-left: 956px;
+    justify-content: right;
+	background-color: #f7fbff;
+	border-top-color: #5ea4f3;
+	border: 1px solid white
+}
+.mini{
+	margin-right: 100px;
+	margin-left: 20px;
+}
+
+.mini1{
+	margin-right: 120px;
+	margin-left: 40px;
+}
+
+button{
+	width: 180px;
+	margin-left: 100px;
+	
+}
+.img-fluid{
+	width: 150px;
+    display: flex;
+    margin: 50px;
+}
+
+.img-fluid1{
+    position: relative;
+    bottom: 200px;
+	width: 150px;
+    display: flex;
+    margin: 50px;
+}
+
+.img-fluid2{
+    position: relative;
+    bottom: 390px;
+	width: 150px;
+    display: flex;
+    margin: 50px;
+}
+
+#headh{
+    position: relative;
+    bottom: 150px;
+    right: 150px;
+}
+
+#headhh{
+    position: relative;
+    bottom: 350px;
+    right: 150px;
+}
+
+#headhhh{
+    position: relative;
+    bottom: 540px;
+    right: 150px;
+}
+
+.text{
+    position: relative;
+    bottom: 140px;
+    right: 150px;
+    margin: 5px;
+}
+
+.text1{
+    position: relative;
+    bottom: 340px;
+    right: 150px;
+    margin: 5px;
+}
+
+.text2{
+    position: relative;
+    bottom: 530px;
+    right: 150px;
+    margin: 5px;
+}
+
+.quantity{
+    position: relative;
+    bottom: 270px;
+    right: -50px;
+    font-size: 20px;
+}
+
+.quantity1{
+    position: relative;
+    bottom: 470px;
+    right: -50px;
+    font-size: 20px;
+}
+
+.quantity2{
+    position: relative;
+    bottom: 660px;
+    right: -50px;
+    font-size: 20px;
+}
+
+#btn1{
+    width: 70px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid gray
+}
+
+#btn2{
+    position: relative;
+    bottom: 470px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid gray
+}
+
+#btn3{
+    position: relative;
+    bottom: 650px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid gray
+}
+
+#price{
+    position: relative;
+    bottom: 350px;
+    right: -250px;
+}
+
+#price1{
+    position: relative;
+    bottom: 550px;
+    right: -250px;
+}
+
+#price2{
+    position: relative;
+    bottom: 740px;
+    right: -250px;
+}
