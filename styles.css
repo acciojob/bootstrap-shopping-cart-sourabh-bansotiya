@@ -19,7 +19,7 @@ h1{
 }
 
 
-#head{
+.col-lg-8{
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -76,7 +76,7 @@ button{
     margin: 50px;
 }
 
-#headh{
+.block-heading{
     position: relative;
     bottom: 150px;
     right: 150px;
